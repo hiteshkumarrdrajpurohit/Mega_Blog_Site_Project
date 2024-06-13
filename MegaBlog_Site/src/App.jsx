@@ -1,10 +1,10 @@
 
 function App() {
-  console.log(import.meta.env.VITE_REACT-WRITE);
+  console.log(import.meta.env.VITE_APPWRITE_URL);
 
   return (
     <>
-     <h1>Hitesh Kumar Rajpurohit</h1>
+    <h1>Hare krsna</h1>
     </>
   )
 }
